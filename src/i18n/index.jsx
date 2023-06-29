@@ -9,6 +9,7 @@ import idMessages from './messages/id.json';
 import kokrMessages from './messages/ko_kr.json';
 import plMessages from './messages/pl.json';
 import ptbrMessages from './messages/pt_br.json';
+import ptptMessages from './messages/pt_pt.json';
 import ruMessages from './messages/ru.json';
 import thMessages from './messages/th.json';
 import ukMessages from './messages/uk.json';
@@ -24,6 +25,7 @@ const messages = {
   'ko-kr': kokrMessages,
   pl: plMessages,
   'pt-br': ptbrMessages,
+  'pt-pt': ptptMessages,
   ru: ruMessages,
   th: thMessages,
   uk: ukMessages,
